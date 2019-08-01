@@ -7,15 +7,15 @@ This code of conduct applies to the maintainers and contributors alike.
 _We wish to add a specific section on dealing with issues opened against the
 repository here._
 
-This repository exists in the context of EGI Operations. While that scope does
+This repository exists in the context of the EGI Federation. While that scope does
 not restrict the usage, it does inform the priority we assign to issues and the
 order we deal with them.
 
 We welcome issues reported by the public, and more specifically the community
 of people using this repository.
-The EGI operations team is small and cannot support all requests equally.
+The EGI team is small and cannot support all requests equally.
 While we undertake to do everything in our power to respond to issues
-timeously, and to prioritise issues based on reasonable requests from
+timely, and to prioritise issues based on reasonable requests from
 submitters, the maintainers expect that the prioritisation of issues as decided
 by them is respected.
 
@@ -74,9 +74,9 @@ project may be further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at contact@egi.eu. The project team
+reported by contacting the EGI Foundation team at contact@egi.eu. The team
 will review and investigate all complaints, and will respond in a way that it
-deems appropriate to the circumstances. The project team is obligated to
+deems appropriate to the circumstances. The team is obligated to
 maintain confidentiality with regard to the reporter of an incident. Further
 details of specific enforcement policies may be posted separately.
 
