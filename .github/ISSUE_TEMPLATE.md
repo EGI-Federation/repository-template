@@ -4,7 +4,7 @@ Please use the template below to construct the issue.
 
 Dealing with issues:
 - Issues opened here will be evaluated by the maintainers, and given priority
-  based based on that evaluation.
+  based on that evaluation.
 - Support is provided on a best-effort basis
 - See the CODE_OF_CONDUCT.md for a deeper description of how we deal with support
   and issues.
