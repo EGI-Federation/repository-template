@@ -21,20 +21,20 @@ including a wider community scope.
 
 Before proposing a contribution via pull request, ideally there is an open
 issue describing the need for your contribution (refer to this issue number
-when you submit the pull request). We have a 3 step process for contributions.
+when you submit the pull request). We have a 3 steps process for contributions.
 
-  1. Fork the project if you have not, and commit changes to a git branch
-  1. Create a GitHub Pull Request for your change, following the instructions
-     in the pull request template.
-  1. Perform a [Code Review](#code-review-process) with the maintainers on the
-     pull request.
+1. Fork the project if you have not, and commit changes to a git branch
+1. Create a GitHub Pull Request for your change, following the instructions
+   in the pull request template.
+1. Perform a [Code Review](#code-review-process) with the maintainers on the
+   pull request.
 
 ### Pull Request Requirements
 
-  1. **Explain your contribution in plain language.** To assist the maintainers
-     in understanding and appreciating your pull request, please use the
-     template to explain _why_ you are making this contribution, rather than
-     just _what_ the contribution entails.
+1. **Explain your contribution in plain language.** To assist the maintainers
+   in understanding and appreciating your pull request, please use the
+   template to explain _why_ you are making this contribution, rather than
+   just _what_ the contribution entails.
 
 ### Code Review Process
 
@@ -48,7 +48,7 @@ follows:
 
 1. A maintainer will review your code and merge it if no changes are necessary.
    Your change will be merged into the repository's `master` branch.
-1. If a maintainer has feedback or questions on your changes they they will set
+1. If a maintainer has feedback or questions on your changes then they will set
    `request changes` in the review and provide an explanation.
 
 ## Using git

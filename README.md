@@ -6,6 +6,7 @@ It includes:
 * Copyright and author information
 * Code of conduct and contribution guidelines
 * Templates for PR and issues
+* Code owners file for automatic assignment of PR reviewers
 
 Content is based on:
 
