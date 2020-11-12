@@ -25,7 +25,7 @@ All changes should go through Pull Requests.
 - Only squash should be enforced in the repository settings.
 - Update commit message for the squashed commits as needed.
 
-### Protection on master branch
+### Protection on main branch
 
 To be configured on the repository settings.
 
