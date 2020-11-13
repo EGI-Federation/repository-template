@@ -16,6 +16,24 @@ Content is based on:
 - [Semantic Versioning](https://semver.org/)
 - [Chef Cookbook Contributing Guide](https://github.com/chef-cookbooks/community_cookbook_documentation/blob/master/CONTRIBUTING.MD)
 
+## Asking for creation of a repository
+
+It can be done by contacting the
+[administrators](https://github.com/orgs/EGI-Foundation/teams/admins).
+
+The following information should be provided:
+
+- repository name (lower case, usually not required to mention EGI in the name)
+- repository description (oneliner is enough)
+- optionally additional users that should be able to manage PR and issues
+- optional additional requirements (like disabling Pull Requests for the initial
+  repository population)
+
+If required a private repository can be created but public ones are the default,
+but feel free to ask.
+
+Once all info will have been agreed the repository will be created.
+
 ## GitHub repository management rules
 
 All changes should go through Pull Requests.
