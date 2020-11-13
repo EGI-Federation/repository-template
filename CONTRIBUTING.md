@@ -47,7 +47,7 @@ built-in code review process in Github PRs. The process at this point is as
 follows:
 
 1. A maintainer will review your code and merge it if no changes are necessary.
-   Your change will be merged into the repository's `master` branch.
+   Your change will be merged into the repository's `main` branch.
 1. If a maintainer has feedback or questions on your changes then they will set
    `request changes` in the review and provide an explanation.
 
@@ -82,7 +82,7 @@ purpose of changes to the code.
 
 ## Release cycle
 
-Master branch is always available.
+Main branch is always available.
 Tagged versions may be created as needed following [Semantic
 Versioning](https://semver.org/) as far as applicable.
 
