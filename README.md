@@ -19,7 +19,7 @@ Content is based on:
 ## Asking for creation of a repository
 
 It can be done by contacting the
-[administrators](https://github.com/orgs/EGI-Foundation/teams/admins).
+[administrators](https://github.com/orgs/EGI-Federation/teams/admins).
 
 The following information should be provided:
 
@@ -59,8 +59,8 @@ To be configured on the repository settings.
 ## Access
 
 All access should be managed via
-[GitHub teams](https://github.com/orgs/EGI-Foundation/teams).
+[GitHub teams](https://github.com/orgs/EGI-Federation/teams).
 
-- EGI-Foundation/admins: administration right
+- EGI-Federation/admins: administration right
 - Others participants depending on the requirement: maintain, triage or write or
   rights
