@@ -1,4 +1,4 @@
-# Template for EGI repositories.
+# Template for EGI repositories
 
 It includes:
 
