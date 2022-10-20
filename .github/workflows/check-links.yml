@@ -12,6 +12,9 @@ jobs:
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          # Full git history needed to get proper list of changed files
+          fetch-depth: 0
 
       - name: Check links on new changes
         uses: gaurav-nelson/github-action-markdown-link-check@v1
