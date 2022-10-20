@@ -5,6 +5,12 @@
     },
     {
       "pattern": "^https://example.com"
+    },
+    {
+      "pattern": "^https://docs.github.com"
+    },
+    {
+      "pattern": "^https://github.com/EGI-Federation/<REPOSITORY>"
     }
   ]
 }
