@@ -1,5 +1,9 @@
 # Template for EGI repositories
 
+This repository is to be used as a repository template for creating a new EGI
+repository, and is aiming at being a clean basis promoting currently accepted
+good practices.
+
 It includes:
 
 - License information
