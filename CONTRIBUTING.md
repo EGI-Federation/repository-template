@@ -11,8 +11,7 @@ contribute are also welcome.
 ## Feedback and Questions
 
 If you wish to discuss anything related to the project, please open a
-[GitHub issue](https://github.com/EGI-Federation/<REPOSITORY>/issues/new) or
-start a topic on the [EGI Community Forum](https://community.egi.eu). The
+[GitHub issue](https://github.com/EGI-Federation/<REPOSITORY>/issues/new). The
 maintainers will sometimes move issues off of GitHub to the community forum if
 it is thought that longer, more open-ended discussion would be beneficial,
 including a wider community scope.
@@ -91,7 +90,6 @@ EGI benefits from a strong community of developers and system administrators,
 and vice-versa. If you have any questions or if you would like to get involved
 in the wider EGI community you can check out:
 
-- [EGI Community Forum](https://community.egi.eu/)
 - [EGI site](https://www.egi.eu)
 
 **This file has been modified from the Chef Cookbook Contributing Guide**.
