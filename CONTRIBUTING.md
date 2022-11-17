@@ -11,7 +11,7 @@ contribute are also welcome.
 ## Feedback and Questions
 
 If you wish to discuss anything related to the project, please open a
-[GitHub issue](https://github.com/EGI-Federation//<REPOSITORY>/issues/new). The
+[GitHub issue](https://github.com/EGI-Federation/<REPOSITORY>/issues/new). The
 maintainers will sometimes move issues off of GitHub to the community forum if
 it is thought that longer, more open-ended discussion would be beneficial,
 including a wider community scope.
