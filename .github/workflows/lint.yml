@@ -1,7 +1,9 @@
 ---
 name: Lint
 
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
 
 jobs:
   super-lint:
@@ -13,6 +15,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
+          # Make sure the actual branch is checked out when running on PR
+          # ref: ${{ github.event.pull_request.head.sha }}
           # Full git history needed to get proper list of changed files
           fetch-depth: 0
 
@@ -22,6 +26,7 @@ jobs:
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MARKDOWN_CONFIG_FILE: .markdownlint.json
           # Only check new or edited files
           VALIDATE_ALL_CODEBASE: false
           # Fail on errors
