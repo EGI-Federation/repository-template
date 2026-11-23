@@ -13,6 +13,22 @@ contribute are also welcome.
 If you wish to discuss anything related to the project, please open a
 [GitHub issue](https://github.com/EGI-Federation/REPOSITORY/issues/new).
 
+## Issues and Support Requests
+
+This repository exists in the context of the EGI Federation. While that scope
+does not restrict the usage, it does inform the priority we assign to issues and
+the order we deal with them.
+
+We welcome issues reported by the public, and more specifically the community of
+people using this repository.
+
+The EGI team is small and cannot support all requests equally.
+
+While we undertake to do everything in our power to respond to issues in a
+timely manner, and to prioritise issues based on reasonable requests from
+submitters, the maintainers expect that the prioritisation of issues as decided
+by them is respected.
+
 ## Contribution Process
 
 Before proposing a contribution via pull request (PR), ideally there is an open
